@@ -15,7 +15,7 @@ Built using **SQL Server 2022 Developer Edition** and implemented via SQL script
 - 8+ Tables (Normalized)
 - Primary & Foreign Keys, 1:N & M:N Relationships
 - Views (JOIN, UNION, SUBQUERY)
-- ⚙Stored Procedures
+- Stored Procedures
 - Triggers
 - Role & User Permissions
 - Sample SELECT queries with `DISTINCT`, `CASE`, `EXISTS`, `AVG`, etc.

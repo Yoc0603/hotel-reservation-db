@@ -60,7 +60,7 @@ ER Diagram is included in the report showing all tables and relationships clearl
 
 ## Author
 
-**Yavuz Orhan Candemir**  
+**Yavuz**  
 
 ---
 
